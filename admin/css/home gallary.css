@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+img
+{
+max-width:100%;
+box-shadow:15px 15px 5px rgba(0,0,0,0.5);
+float:left;
+border:8px solid #002939;
+border-bottom-width:10px;
+-moz-box-sizing:border-box;
+-webkit-box-sizing:border-box;
+box-sizing:border-box;
+}
